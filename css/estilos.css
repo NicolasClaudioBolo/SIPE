@@ -1,0 +1,62 @@
+.centrarTexto{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.header__estilo{
+    height: 55vh;
+    margin-top: 0;
+    display: inline-block;
+}
+
+.tamaño__logo{
+    height: 100px;
+    width: auto;
+}
+
+body{
+    background-image: linear-gradient(#3E7CB1, #81A4CD, #81A4CD, #81A4CD, #3E7CB1);
+    overflow-x: hidden;
+}
+
+.espaciado__cards{
+    justify-content: space-evenly;
+}
+
+.titulo__cards{
+    font-size: 30px;
+}
+
+.card{
+    border-radius: 9%;
+}
+
+.btn{
+    background-color: #3E7CB1;
+}
+
+.btn:hover{
+    background-color: #054A91;
+}
+
+.card-img-top{
+    border-radius: 9%;
+}
+
+.tamaño__contacto{
+    margin-left: 44%;
+    height:50px;
+    width: auto;
+}
